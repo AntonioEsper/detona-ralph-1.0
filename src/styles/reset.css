@@ -1,0 +1,7 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /* para que o padding e margin não altere o tamanho do elemento (borda a borda) */
+    /* font-family: "Bebas Neue", sans-serif; */
+    font-family: "Press Start 2P", cursive;
+}
